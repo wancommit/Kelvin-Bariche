@@ -1,15 +1,7 @@
-# Kelvin Bariche
-
-*Location:*  Accra, Ghana  
-*Email:*  kelvinbariche@gmail.com  
-*Title:*  Product Designer → Software Engineer (Front-end)  
+![penguin-hello](https://github.com/user-attachments/assets/1e54212b-79c5-4070-97c8-ea2629e160e3)
 
 
 ---
 
 ### Identity
-- **Categories:** Designer, Developer, Team Lead  
-- **Interests:** UI/UX, Front-end Engineering, Game Development, Blockchain  
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks:** React, Tailwind CSS  
-- **Tools:** Git, GitHub, Figma, Zeplin  
+Product person. Designer. Slowly becoming someone who builds. 
